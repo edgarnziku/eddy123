@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title> home </title>
+  <title> home </title>
 <link href="css/style.css" rel="stylesheet">
 </head>
 <body style="background-color: rgba(108, 141, 141, 0.623);">
